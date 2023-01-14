@@ -294,7 +294,7 @@ function ESP:Add(obj, options)
 		Color = box.Color,
 		Center = true,
 		Outline = true,
-        Size = 19,
+        Size = 13,
         Font = 2,
         Visible = self.Enabled and self.Names
 	})
@@ -302,7 +302,7 @@ function ESP:Add(obj, options)
 		Color = box.Color,
 		Center = true,
 		Outline = true,
-        Size = 19,
+        Size = 13,
         Font = 2,
         Visible = self.Enabled and self.Names
 	})
